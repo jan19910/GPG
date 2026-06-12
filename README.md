@@ -46,4 +46,3 @@ Sensitivität: Eine gezielte Reduktion einzelner Gender-Faktoren (z. B. gender_f
 Das Modell bildet Vergabeentscheidungen als stochastische Prozesse mit konfigurierbaren Wahrscheinlichkeiten ab.
 Verhandlungsverhalten, institutionelle Pfadabhängigkeiten und W-Tabellengehälter selbst sind nicht Teil der Simulation. 
 Ergebnisse sind im Sinne von Größenordnungen und qualitativen Mustern zu interpretieren, nicht als quantitative Vorhersage realer Gehaltsverläufe.
-
